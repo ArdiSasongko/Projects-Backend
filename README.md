@@ -7,7 +7,7 @@ Hi there! 👋 Welcome to my backend development playground where I turn coffee 
 - **Language**: Go
 - **Frameworks**: Chi, Fiber
 - **Databases**: PostgreSQL, MongoDB, Redis
-- **Tools**: Docker, Kubernetes, AWS
+- **Tools**: Docker
 - **Database Tools**: SQL Migrations, SQLC
 - **Testing**: Testify
 - **CI/CD**: GitHub Actions
