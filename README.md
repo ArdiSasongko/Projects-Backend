@@ -4,76 +4,32 @@ Hi there! 👋 Welcome to my backend development playground where I turn coffee 
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Node.js, Python, Java
-- **Frameworks**: Express.js, Django, Spring Boot
+- **Language**: Go
+- **Frameworks**: Chi, Fiber
 - **Databases**: PostgreSQL, MongoDB, Redis
 - **Tools**: Docker, Kubernetes, AWS
-- **Testing**: Jest, PyTest
-- **CI/CD**: GitHub Actions, Jenkins
+- **Database Tools**: SQL Migrations, SQLC
+- **Testing**: Testify
+- **CI/CD**: GitHub Actions
 
 ## 📂 Featured Projects
 
-### 🏪 E-Commerce Microservices Platform
-[View Repository](https://github.com/yourusername/ecommerce-microservices)
+### 🏪 E-Commerce REST API
+[View Repository](https://github.com/ArdiSasongko/ecommerce-api)
 
-A scalable e-commerce backend built with microservices architecture using Node.js and Express.
+A high-performance e-commerce backend built with Go and Chi router, focusing on clean architecture principles.
 
 **Key Features:**
-- Microservices for Products, Orders, Users, and Payment processing
-- Event-driven architecture using RabbitMQ
-- Docker containerization with Kubernetes orchestration
+- Clean Architecture implementation
+- JWT-based authentication and authorization
+- Database management with SQLC and Migrations
 - Comprehensive API documentation with Swagger
-- 95% test coverage with Jest
+- Full test coverage with Testify
+- Containerized with Docker
 
-**Tech Stack:** Node.js, Express, MongoDB, RabbitMQ, Docker, Kubernetes
-
----
-
-### 📱 Social Media API
-[View Repository](https://github.com/yourusername/social-media-api)
-
-RESTful API for a social media platform with real-time features.
-
-**Key Features:**
-- JWT-based authentication
-- Real-time messaging using WebSockets
-- Feed generation with Redis caching
-- Image upload with AWS S3
-- Rate limiting and request throttling
-
-**Tech Stack:** Python, Django REST Framework, PostgreSQL, Redis, AWS S3
+**Tech Stack:** Go, Chi, PostgreSQL, SQLC, Docker, GitHub Actions
 
 ---
-
-### 🎮 Game Leaderboard System
-[View Repository](https://github.com/yourusername/game-leaderboard)
-
-High-performance gaming leaderboard system handling millions of concurrent users.
-
-**Key Features:**
-- Real-time score updates
-- Global and regional rankings
-- Redis-based caching system
-- Horizontal scaling capability
-- Performance monitoring with Prometheus
-
-**Tech Stack:** Java, Spring Boot, Redis, Prometheus, Grafana
-
----
-
-### 🔐 Authentication Service
-[View Repository](https://github.com/yourusername/auth-service)
-
-Secure authentication and authorization service with multiple authentication methods.
-
-**Key Features:**
-- OAuth2 and OpenID Connect implementation
-- Multi-factor authentication
-- Role-based access control
-- Password-less authentication
-- Session management
-
-**Tech Stack:** Node.js, Express, MongoDB, Redis
 
 ## 📊 GitHub Stats
 
