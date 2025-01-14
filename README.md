@@ -14,20 +14,19 @@ Hi there! 👋 Welcome to my backend development playground where I turn coffee 
 
 ## 📂 Featured Projects
 
-### 🏪 E-Commerce REST API
-[View Repository](https://github.com/ArdiSasongko/ecommerce-api)
+### 🏪 SocialNetwork
+[View Repository][(https://github.com/ArdiSasongko/SocialNetwork)]
 
-A high-performance e-commerce backend built with Go and Chi router, focusing on clean architecture principles.
+A backend for a forum and social network app, built with Go and PostgreSQL. Features include user authentication, content creation, likes, and comments. Supports secure token-based auth, file uploads with Cloudinary, and Docker for deployment.
 
 **Key Features:**
 - Clean Architecture implementation
 - JWT-based authentication and authorization
-- Database management with SQLC and Migrations
-- Comprehensive API documentation with Swagger
-- Full test coverage with Testify
+- Database management with Migrations
+- Comprehensive API documentation
 - Containerized with Docker
 
-**Tech Stack:** Go, Chi, PostgreSQL, SQLC, Docker, GitHub Actions
+**Tech Stack:** Go, Chi, PostgreSQL, Docker, GitHub Actions
 
 ---
 
