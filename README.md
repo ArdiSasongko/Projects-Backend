@@ -28,7 +28,19 @@ Hey! This is my pride and joy - a full-featured social network backend built wit
 **Tech Stack:** Go, Chi, PostgreSQL, Docker, GitHub Actions
 
 ---
+### ✉️ MessagingApp
+[View Repository](https://github.com/ArdiSasongko/MessagingApp)
 
+This is a simple project to explore real-time communication using WebSockets. It includes basic features for sending and receiving messages, along with storing chat history. MongoDB is used for message history, while PostgreSQL handles user data. The project also has basic authentication features. This project was created as a learning exercise and to enhance my portfolio with practical experience in building WebSocket-based applications.
+
+**Key Features:**
+- Real-time messaging with WebSocket (send and receive messages)
+- Basic user authentication: register, login, logout, refresh token
+- Chat history retrieval
+
+**Tech Stack:** Go, WebSocket, MongoDB, PostgreSQL, Docker
+
+---
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdiSasongko&show_icons=true&theme=radical)
 
