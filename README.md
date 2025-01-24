@@ -41,9 +41,6 @@ This is a simple project to explore real-time communication using WebSockets. It
 **Tech Stack:** Go, WebSocket, MongoDB, PostgreSQL, Docker
 
 ---
-I'll create a README file for the E-Wallet Project using the template you provided:
-
----
 ### 💸 EwalletProject
 [View Repository](https://github.com/ArdiSasongko/EwalletProject)
 
