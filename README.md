@@ -64,7 +64,7 @@ This is a comprehensive e-wallet backend service designed to provide robust fina
 3. Transaction Service: Transaction processing and management
 4. Notification Service: Communication and alerts
 
-```
+---
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdiSasongko&show_icons=true&theme=radical)
 
