@@ -41,6 +41,30 @@ This is a simple project to explore real-time communication using WebSockets. It
 **Tech Stack:** Go, WebSocket, MongoDB, PostgreSQL, Docker
 
 ---
+I'll create a README file for the E-Wallet Project using the template you provided:
+
+---
+### 💸 EwalletProject
+[View Repository](https://github.com/ArdiSasongko/EwalletProject)
+
+This is a comprehensive e-wallet backend service designed to provide robust financial transaction capabilities. The project explores microservices architecture, offering secure and scalable wallet management with advanced authentication and transaction features. Created to demonstrate practical implementation of modern backend technologies and financial service design.
+
+**Key Features:**
+- User authentication with JWT (register, login, logout, token refresh)
+- Wallet management (create, credit, debit, balance check)
+- Transaction handling (create, update, refund)
+- Microservices-based architecture
+- gRPC-powered notification service
+
+**Tech Stack:** Go, Fiber, PostgreSQL, SQLC, Docker, REST, gRPC
+
+**Microservices:**
+1. User Service: Authentication and user management
+2. Wallet Service: Financial operations and balance tracking
+3. Transaction Service: Transaction processing and management
+4. Notification Service: Communication and alerts
+
+```
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdiSasongko&show_icons=true&theme=radical)
 
